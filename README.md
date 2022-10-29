@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmflower)](https://github.com/tmflower/dog-finder/edit/main/README.md)
 
 ### `npm start`
 
